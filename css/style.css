@@ -1409,6 +1409,7 @@ main {
 }
 .speaker-photo svg { width: 58px; height: 58px; }
 .speaker-photo img { width: 100%; height: 100%; object-fit: cover; }
+.speaker-photo img[src*="ibm%20speaker"] { object-position: center 22%; }
 
 .speaker-tag {
   font-family: var(--font-mono); font-size: 0.65rem;
