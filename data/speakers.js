@@ -93,12 +93,22 @@ window.SPEAKERS_DATA = [
   },
   {
     id: "speaker-4",
-    name: "IBM Speaker",
-    role: "Quantum Computing Speaker",
-    org: "IBM Quantum",
-    bio: "Speaker from IBM Quantum contributing practical insight into quantum computing and Qiskit.",
+    name: "Dr. Swathi Mummadi",
+    role: "Founder & CEO, Quantrins Solutions",
+    org: "Associate Professor, B V Raju Institute of Technology · Postdoctoral Researcher, Universiti Malaysia Perlis, Malaysia",
+    bio: "An IBM Qiskit Advocate with 11+ years of teaching and research experience, working in quantum computing and cryptography.",
+    tag: "IBM Speaker",
+    photo: "assets/logos/ibm%20speaker.png",
+    link: "#"
+  },
+  {
+    id: "speaker-vandana-jagtap",
+    name: "Dr. Vandana Jagtap",
+    role: "Department of Computer Engineering and Technology",
+    org: "MIT World Peace University",
+    bio: "Faculty member and educator at MIT World Peace University with an interest in Quantum Machine Learning.",
     tag: "Speaker",
-    photo: null,
+    photo: "assets/logos/vandana%20jatap.png",
     link: "#"
   }
 ];
